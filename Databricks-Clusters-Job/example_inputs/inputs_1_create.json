@@ -11,11 +11,11 @@
     "QuartzCronExpression": "20 30 * * * ?"
   },
   "MaxConcurrentRuns": 1,
-  "ExistingClusterId": "0228-235228-g3ys3lma",
+  "ExistingClusterId": "DATABRICKS_CLUSTER_ID",
   "Format": "SINGLE_TASK",
   "AccessControlList": [
     {
-      "UserName": "rajdnp@amazon.com",
+      "UserName": "DATABRICKS_USERNAME",
       "PermissionLevel": "IS_OWNER"
     }
   ]
