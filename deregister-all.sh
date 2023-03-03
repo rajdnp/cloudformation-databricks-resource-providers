@@ -4,7 +4,7 @@
 #
 # Does not un-publish any published versions.
 #
-# Run this from the resource directory, for example `PagerDuty-ResponsePlays-ResponsePlay/`
+# Run this from the resource directory, for example `Databricks-Clusters-Job/`
 #
 # Args
 #
