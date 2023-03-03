@@ -11,7 +11,7 @@
     "QuartzCronExpression": "20 30 * * * ?"
   },
   "MaxConcurrentRuns": 1,
-  "ExistingClusterId": "<DATABRICKS_CLUSTER_ID>",
+  "ExistingClusterId": "0228-235228-g3ys3lma",
   "Format": "SINGLE_TASK",
   "AccessControlList": [
     {
